@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="wp_background">#000000</color>
+    <color name="wp_surface">#0A0A0A</color>
+    <color name="wp_text">#FFFFFF</color>
+    <color name="wp_text_secondary">#AAAAAA</color>
+
+    <!-- Bang mau accent kieu Windows Phone 10 -->
+    <color name="tile_cobalt">#0050EF</color>
+    <color name="tile_cyan">#1BA1E2</color>
+    <color name="tile_teal">#00ABA9</color>
+    <color name="tile_emerald">#008A00</color>
+    <color name="tile_lime">#A4C400</color>
+    <color name="tile_mango">#F0A30A</color>
+    <color name="tile_amber">#FFC40D</color>
+    <color name="tile_orange">#FA6800</color>
+    <color name="tile_brick">#D80073</color>
+    <color name="tile_rose">#E51400</color>
+    <color name="tile_magenta">#D80073</color>
+    <color name="tile_purple">#6A00FF</color>
+    <color name="tile_violet">#AA00FF</color>
+    <color name="tile_pink">#F472D0</color>
+    <color name="tile_steel">#647687</color>
+    <color name="tile_mauve">#76608A</color>
+</resources>

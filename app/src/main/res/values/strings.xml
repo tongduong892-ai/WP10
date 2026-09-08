@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Metro Launcher</string>
+    <string name="all_apps">tất cả ứng dụng »</string>
+    <string name="search_hint">Tìm ứng dụng</string>
+    <string name="back_to_start">quay lại</string>
+</resources>
